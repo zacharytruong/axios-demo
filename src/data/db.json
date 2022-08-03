@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "it": 1,
+      "title": "Axios React",
+      "author": "Adrian Twarog"
+    },
+    {
+      "it": 2,
+      "title": "Axios React Native",
+      "author": "Adrian Twarog"
+    },
+    {
+      "it": 3,
+      "title": "Axios JavaScript",
+      "author": "Adrian Twarog"
+    }
+  ]
+}

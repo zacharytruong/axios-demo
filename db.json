@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Axios React",
+      "author": "Adrian Twarog"
+    },
+    {
+      "id": 2,
+      "title": "Axios React Native",
+      "author": "Adrian Twarog"
+    },
+    {
+      "id": 3,
+      "title": "Axios JavaScript",
+      "author": "Adrian Twarog"
+    },
+    {
+      "id": 4,
+      "title": "Axios NextJS",
+      "author": "Adrian Twarog"
+    },
+    {
+      "id": "l6e1q3tn",
+      "title": "Harry",
+      "author": "J.K"
+    },
+    {
+      "id": "l6e1q9sw",
+      "title": "LOTR",
+      "author": "Tobi"
+    }
+  ]
+}
